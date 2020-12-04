@@ -1,0 +1,14 @@
+{
+  "name": "for-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "harmonicNum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
